@@ -1,0 +1,32 @@
+.card-title{
+    position: absolute;
+    padding: 20px;
+    text-shadow: 0 0 5px #000
+}
+.card-date{
+    position: absolute;
+    padding: 20px;
+    margin-top: 60px;
+    text-shadow: 0 0 5px #000
+}
+.card-temp{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 260px;
+    font-size: 50px;
+    text-shadow: 0 0 5px #000
+}
+.card-desc{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 320px;
+    text-shadow: 0 0 5px #000
+}
+.card-text{
+    font-size: 28px;
+    text-shadow: 0 0 5px #000
+}
+.temp {
+    font-size: 30px;
+    text-shadow: 0 0 5px #000
+}
